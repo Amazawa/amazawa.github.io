@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Amazawa
 author-bio: Worker and Designer for this test page  # change to false to hide
-author-image: v2-7dc82d628e262faa20ba91c2a0ee3d79_r.jpg  # file must be in the /assets/img/ folder
+author-image: 640.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
