@@ -1,10 +1,17 @@
 ---
 layout: page
-title: About
-permalink: about
+title: Call For Papers
+permalink: cfp
 ---
 
 > Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+
+2022 SIGBIT Workshop on Web3 Technologies and Applications
+
+December 10, 2022, Copenhagen, Denmark
+
+Location: IT University of Copenhagen
+
 
 ## Profile Image
 
