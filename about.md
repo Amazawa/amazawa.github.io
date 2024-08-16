@@ -4,13 +4,31 @@ title: Call For Papers
 permalink: cfp
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
-
 2022 SIGBIT Workshop on Web3 Technologies and Applications
 
 December 10, 2022, Copenhagen, Denmark
 
 Location: IT University of Copenhagen
+
+(Online/offline hybrid workshop in conjunction with International Conference on Information Systems)
+
+Blockchain technology is flourishing into a wide spectrum of academic and industrial initiatives in many fields such as banking, insurance, manufacturing, supply chain, education, healthcare, government, etc. As a decentralized online ecosystem based on blockchain, Web3 has gained a lot of attention in recent years, which revolves around blockchain based technologies and applications such as Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), decentralized autonomous organization (DAOs), and Metaverse. Many have argued that Web3 can be a potential solution to the over-centralization of data and content in the Web 2.0 era, while others have expressed concerns about the regulation issues and new data ownership problems in a decentralized web.
+
+The aim of this workshop is to provide a forum for scholars to exchange research ideas and results on Web3 and its applications.
+
+### Topics of interest include, but are not limited to:
+
+1. Decentralized Finance
+2. Non-Fungible Tokens
+3. Decentralized Autonomous Organizations
+4. Metaverse analysis and design paradigms in various business sectors
+5. Security and privacy issues for Web3 platforms
+6. Regulation and legal issues for Web3 platforms
+7. Design and implementation issues of Web3 platforms
+8. Blockchain applications in metaverse platforms
+9. Data management issues on the blockchain
+10. Process management on blockchain
+11. Transaction mechanisms in cryptocurrencies
 
 
 ## Profile Image
