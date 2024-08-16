@@ -4,11 +4,11 @@ title: Call For Papers
 permalink: cfp
 ---
 
-2022 SIGBIT Workshop on Web3 Technologies and Applications
+2024 SIGBIT Workshop on Web3 Technologies and Applications
 
-December 10, 2022, Copenhagen, Denmark
+December 15, 2024, Bangkok, Thailand
 
-Location: IT University of Copenhagen
+Location: Bangkok
 
 (Online/offline hybrid workshop in conjunction with International Conference on Information Systems)
 
@@ -16,7 +16,7 @@ Blockchain technology is flourishing into a wide spectrum of academic and indust
 
 The aim of this workshop is to provide a forum for scholars to exchange research ideas and results on Web3 and its applications.
 
-### Topics of interest include, but are not limited to:
+**Topics of interest include, but are not limited to:**
 
 1. Decentralized Finance
 2. Non-Fungible Tokens
@@ -30,6 +30,10 @@ The aim of this workshop is to provide a forum for scholars to exchange research
 10. Process management on blockchain
 11. Transaction mechanisms in cryptocurrencies
 
+## Important Dates:
+Submission Deadline: October 10, 2024
+Notification of Acceptance: October 31, 2024
+Final Version Due: November 21, 2024
 
 ## Profile Image
 
